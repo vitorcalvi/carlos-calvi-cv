@@ -4,8 +4,9 @@
 
 **Founder & CEO | Empreendedor | Tecnologia & Saúde Mental | AI Software Developer**
 
-📍 Vitória - ES | 🎂 27/10/1980 | 🆔 1.719.352-ES
-📧 [seu-email@exemplo.com.br] | 📱 [seu-telefone]
+📍 Camí dels Capellans, 77, 2-2, Sitges, Barcelona, Spain | 🎂 27/10/1980 | 🆔 1.719.352-ES
+📧 vcalvi@gmail.com | 📱 +34 672962737
+🔗 [GitHub: vitorcalvi](https://github.com/vitorcalvi)
 
 ---
 
