@@ -75,7 +75,6 @@ Mental health technology company focused on burnout prevention and increasing bu
 ### Petrobras POC
 Pilot implementation of Dyagnosys technology in a large corporation.
 
-- **41,000+ employees** participated
 - Clinically validated technology with **82% accuracy**
 - Demonstration of scalability and effectiveness in corporate environments
 
@@ -130,7 +129,7 @@ SEBRAE Contract 345/2021 - "Mental Health Parameters Monitoring" Project.
 | Language | Level |
 |----------|--------|
 | Portuguese | Native |
-| English | Intermediate |
+| English | Advanced |
 
 ---
 
@@ -140,7 +139,7 @@ Founder & CEO of **Dyagnosys Health**, an internationally recognized mental heal
 
 Combines strong academic background in Administration and Information Systems (three MBAs from FGV) with advanced certifications in Coaching and Neuro-Linguistic Programming. Led **Brazil-Switzerland bilateral cooperation project** with official support from ApexBrasil, Embrapii, and Innosuisse, developing partnerships with institutions like UFMG, UNIVERTIX, and HUG Geneva.
 
-Developed clinically validated AI technology (**82% accuracy**) implemented in **POC with 41,000+ employees** at Petrobras. Robust experience in business management, software development, international relations, and fundraising for expansion into strategic markets (United Arab Emirates, India, Europe).
+Developed clinically validated AI technology (**82% accuracy**) implemented in POC at Petrobras. Robust experience in business management, software development, international relations, and fundraising for expansion into strategic markets (United Arab Emirates, India, Europe).
 
 **Company:** DYAGSOFTWARE LTDA | CNPJ: 41.922.920/0001-44 | Brasília - DF | Active since May 2021
 

@@ -75,7 +75,6 @@ Projeto "Monitoring, Protecting, Healing Mental Health" com cooperação interna
 ### POC Petrobras
 Implementação piloto da tecnologia Dyagnosys em grande corporação.
 
-- **41.000+ funcionários** participantes
 - Tecnologia validada clinicamente com **82% de precisão**
 - Demonstração de escalabilidade e eficácia em ambientes corporativos
 
@@ -130,7 +129,7 @@ Contrato SEBRAE 345/2021 - Projeto "Monitoramento de Parâmetros de Saúde Menta
 | Idioma | Nível |
 |---------|--------|
 | Português | Nativo |
-| Inglês | Intermediário |
+| Inglês | Avançado |
 
 ---
 
@@ -140,7 +139,7 @@ Founder & CEO da **Dyagnosys Health**, empresa de tecnologia em saúde mental re
 
 Combina sólida formação acadêmica em Administração e Sistemas de Informação (três MBAs - FGV) com certificações avançadas em Coaching e Programação Neurolinguística. Liderou projeto de **cooperação bilateral Brasil-Suíça** com apoio oficial da ApexBrasil, Embrapii e Innosuisse, desenvolvendo parcerias com instituições como UFMG, UNIVERTIX e HUG Genebra.
 
-Desenvolveu tecnologia de IA validada clinicamente (**82% de precisão**) implementada em **POC com 41.000+ funcionários** da Petrobras. Experiência robusta em gestão empresarial, desenvolvimento de software, relações internacionais e captação de investimentos para expansão em mercados estratégicos (Emirados Árabes Unidos, Índia, Europa).
+Desenvolveu tecnologia de IA validada clinicamente (**82% de precisão**) implementada em POC da Petrobras. Experiência robusta em gestão empresarial, desenvolvimento de software, relações internacionais e captação de investimentos para expansão em mercados estratégicos (Emirados Árabes Unidos, Índia, Europa).
 
 **Empresa:** DYAGSOFTWARE LTDA | CNPJ: 41.922.920/0001-44 | Brasília - DF | Ativa desde Maio/2021
 
