@@ -1,0 +1,24 @@
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Certificate and diploma images (large files, not essential for repo)
+*.jpg
+*.jpeg
+*.png
+*.pdf
+
+# Keep only essential CV files and vitor.jpg
+!vitor.jpg
+!CV_*.md
+!CV_*.html
+!CV_*.txt
+!README*.md
