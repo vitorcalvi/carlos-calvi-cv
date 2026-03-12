@@ -7,9 +7,10 @@ Professional CV/resume of **Carlos Vitor Botti Calvi** - Founder & CEO of Dyagno
 ### Languages
 - **🇧🇷 [Portuguese (CV_PT.md)](./CV_PT.md)** - Currículo em Português
 - **🇺🇸 [English (CV_EN.md)](./CV_EN.md)** - Resume in English
+- **🇪🇸 [Spanish (CV_ES.md)](./CV_ES.md)** - Currículo en Español
 
 ### File Formats
-- **Markdown**: CV_PT.md, CV_EN.md (Recommended for GitHub/web viewing)
+- **Markdown**: CV_PT.md, CV_EN.md, CV_ES.md (Recommended for GitHub/web viewing)
 - **HTML**: CV_Carlos_Vitor_Calvi.html (Self-contained, shareable)
 - **Text**: CV_Carlos_Vitor_Calvi.txt (Plain text format)
 
@@ -46,8 +47,9 @@ Mental health technology company focused on burnout prevention and increasing bu
 
 - View CV in [English](./CV_EN.md)
 - View CV in [Portuguese](./CV_PT.md)
+- View CV in [Spanish](./CV_ES.md)
 - Download as [HTML](./CV_Carlos_Vitor_Calvi.html)
 
 ---
 
-*Last updated: March 2024*
+*Last updated: March 2026*
