@@ -1,0 +1,114 @@
+Carlos Vitor Botti Calvi
+Founder & CEO | Empreendedor | Tecnologia & Saúde Mental | AI Software Developer
+Data de Nascimento: 27/10/1980 | Vitória - ES
+ID: 1.719.352-ES
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ EXPERIÊNCIA PROFISSIONAL                                                                    │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+• Founder & CEO – Dyagnosys Health (DYAGSOFTWARE LTDA) | Brasília - DF | 2021 - Presente
+  Empresa de tecnologia em saúde mental focada em prevenção de burnout e aumento de produtividade.
+  Desenvolvimento de soluções de IA para detecção precoce de estresse e burnout. Liderança de
+  equipe técnica, gestão estratégica, relações internacionais e busca de investimento de US$ 2M
+  para expansão em UAE e Índia.
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ EDUCAÇÃO                                                                                    │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Bacharelado
+• Sistemas de Informação – Universidade Estácio de Sá (Agosto/2015)
+• Administração – Faculdade Estácio de Sá - Vitória (Agosto/2013)
+
+Pós-Graduação / MBAs
+• MBA em Gestão Empresarial (Lato Sensu) – FGV/EBAPE (Maio/2019)
+• MBA – Gestão Financeira (Lato Sensu) – Universidade Candido Mendes/ESPG (Dez/2019)
+• Post MBA em Inteligência Empresarial – FGV (Dez/2017)
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ CERTIFICAÇÕES E CURSOS                                                                      │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Coaching e Desenvolvimento Pessoal
+• Professional & Life Coach (Certificação Internacional) – EBRA (Jun/2017)
+• Líder Coach – EBRA Coaching (Nov/2015)
+• Practitioner em Programação Neurolinguística (100h) – EBRA (Jun/2017)
+• Empretec (60h) – SEBRAE/ES (Jul/2007)
+
+Tecnologia e Infraestrutura
+• Microsoft Certified Professional
+• MOC 2830 – Designing Security for Microsoft Networks (24h) – Mindworks (Set/2006)
+• MOC 2824 – Implementing and Managing Microsoft Exchange Server 2003 (40h) – Mindworks (Mai/2006)
+• MOC 2276 – Implementing a Microsoft Windows Server 2003 Net Infrastructure (Fev/2006)
+• Administração de Servidores Linux – Libertos Treinamento (Abr/2005)
+• Cabeamento Estruturado FCP (40h) – Furukawa (Jan/2006)
+• Instalação e Programação Centrais PANASONIC TDE e NCP – Multiport/Panasonic (Fev/2011)
+
+Qualidade e Gestão
+• Preparação do Laboratório para Implantação de Sistema de Gestão da Qualidade – PNCQ/SBAC (Set/2018)
+
+Microsoft Courses (Connet Network Consulting)
+• MOC 2153 – Implementing Windows 2000 Network Infrastructure (40h) – Jul/2001
+• MOC 2267A – Implementando Windows 2000 Professional e Server (40h) – Mai/2001
+• MOC 2266A – Conceitos Básicos Windows 2000 (24h) – Fev/2001
+• MOC 1303 – Mastering Microsoft Visual Basic 6 Fundamentals (40h) – Jun/2001
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ PROJETOS & PARCERIAS                                                                        │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+• Cooperação Bilateral Brasil-Suíça 2023 – TechMakers, ApexBrasil, Embrapii e Innosuisse
+  Projeto "Monitoring, Protecting, Healing Mental Health" com parceiros UFMG, UNIVERTIX, HUG
+  Genebra e Manufacture Modules Technologies SA
+• POC Petrobras – Implementação piloto com 41.000+ funcionários, tecnologia validada
+  clinicamente com 82% de precisão
+• Parceria EMBRAPII – Projeto de pesquisa em parceria com rede de 60 unidades de pesquisa (2024)
+• Apoio SEBRAE – Projeto "Monitoramento de Parâmetros de Saúde Mental" com suporte do GENER/DF
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ COMPETÊNCIAS                                                                                │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Empreendedorismo & Negócios:
+Liderança de startups, Relações internacionais, Captação de recursos, Estratégia de mercado,
+Parcerias bilaterais, Compliance (GDPR, PDPL, HIPAA)
+
+Tecnologia:
+IA e Machine Learning, Desenvolvimento de software, Windows Server, Linux, Redes, Segurança,
+Visual Basic, Análise de dados, Computação biométrica
+
+Desenvolvimento Humano:
+Coaching executivo, Programação Neurolinguística, Gestão de equipes, Saúde mental corporativa,
+Empreendedorismo
+
+Produtos Desenvolvidos:
+AI-GAD-7 (detecção de estresse), GAD-7 Questionnaire, Team Stress & Anxiety Index (TSAI),
+Screening on-device para privacidade
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ IDIOMAS                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Português – Nativo
+Inglês – Intermediário
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ CONTATO                                                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Email: [seu-email@exemplo.com.br]
+Telefone: [seu-telefone]
+LinkedIn: [seu-linkedin]
+
+┌─────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ RESUMO PROFISSIONAL                                                                         │
+└─────────────────────────────────────────────────────────────────────────────────────────────────┘
+
+Founder & CEO da Dyagnosys Health, empresa de tecnologia em saúde mental reconhecida
+internacionalmente. Combina sólida formação em Administração e Sistemas de Informação (três MBAs)
+com certificações em Coaching e PNL. Liderou projeto de cooperação bilateral Brasil-Suíça com
+apoio da ApexBrasil, Embrapii e Innosuisse. Desenvolveu tecnologia de IA validada clinicamente
+(82% precisão) com POC em grandes corporações. Experiência em gestão empresarial, desenvolvimento
+de software, relações internacionais e captação de investimentos para expansão em mercados
+estratégicos (UAE, Índia, Europa).
