@@ -4,7 +4,7 @@
 
 **Fundador & CEO | Emprendedor | Tecnología y Salud Mental | Desarrollador de Software de IA**
 
-📍 Camí dels Capellans, 77, 2-2, Sitges, Barcelona, Spain | 🎂 27 de octubre de 1980 | 🆔 ID: 1.719.352-ES
+📍 Camí dels Capellans, 77, 2-2, Sitges, Barcelona, Spain | 🎂 27 de octubre de 1980
 📧 vcalvi@gmail.com | 📱 +34 672962737
 🔗 [GitHub: vitorcalvi](https://github.com/vitorcalvi)
 
