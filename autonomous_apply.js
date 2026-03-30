@@ -1,8 +1,8 @@
 // Autonomous Job Application Script using bifrost-gateway Playwright
 // This script navigates to job sites and fills applications automatically
 
-const { createWriteStream, unlinkSync, existsSync } = require('fs');
-const { join } = require('path');
+const { chromium } = require('playwright');
+const fs = require('fs');
 
 // Your application data
 const applicantData = {
